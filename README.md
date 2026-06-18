@@ -14,6 +14,7 @@
 
 ## Структура репозитория
 
+```
 Model-merging-experiments /  
 │  
 ├── 1. Подготовка данных /  
@@ -31,7 +32,7 @@ Model-merging-experiments /
 │ └── Слияние_FT_моделей.ipynb  
 │  
 └── README.md
-
+```
 
 ## Датасеты
 
